@@ -1,0 +1,156 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "certifi",
+    "ipython",
+    "python >=3.7"
+  ],
+  "extracted_package_dir": "/Users/shawn/opt/miniconda3/pkgs/watermark-2.2.0-pyhd8ed1ab_0",
+  "features": "",
+  "files": [
+    "lib/python3.9/site-packages/watermark-2.2.0.dist-info/INSTALLER",
+    "lib/python3.9/site-packages/watermark-2.2.0.dist-info/LICENSE",
+    "lib/python3.9/site-packages/watermark-2.2.0.dist-info/METADATA",
+    "lib/python3.9/site-packages/watermark-2.2.0.dist-info/RECORD",
+    "lib/python3.9/site-packages/watermark-2.2.0.dist-info/REQUESTED",
+    "lib/python3.9/site-packages/watermark-2.2.0.dist-info/WHEEL",
+    "lib/python3.9/site-packages/watermark-2.2.0.dist-info/direct_url.json",
+    "lib/python3.9/site-packages/watermark-2.2.0.dist-info/top_level.txt",
+    "lib/python3.9/site-packages/watermark/__init__.py",
+    "lib/python3.9/site-packages/watermark/magic.py",
+    "lib/python3.9/site-packages/watermark/version.py",
+    "lib/python3.9/site-packages/watermark/watermark.py",
+    "lib/python3.9/site-packages/watermark/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/watermark/__pycache__/magic.cpython-39.pyc",
+    "lib/python3.9/site-packages/watermark/__pycache__/version.cpython-39.pyc",
+    "lib/python3.9/site-packages/watermark/__pycache__/watermark.cpython-39.pyc"
+  ],
+  "fn": "watermark-2.2.0-pyhd8ed1ab_0.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/shawn/opt/miniconda3/pkgs/watermark-2.2.0-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "c93926fd4f95bd26153f28cdf8b8f78b",
+  "name": "watermark",
+  "noarch": "python",
+  "package_tarball_full_path": "/Users/shawn/opt/miniconda3/pkgs/watermark-2.2.0-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/watermark-2.2.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/watermark-2.2.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "19314c90f42720658147db03664a6b29e813484cd573351f9588fd4df020036d",
+        "sha256_in_prefix": "19314c90f42720658147db03664a6b29e813484cd573351f9588fd4df020036d",
+        "size_in_bytes": 1507
+      },
+      {
+        "_path": "site-packages/watermark-2.2.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "9d8d91d6ce67f00a74647bef8f76b1d265a3d97cf7a6b09030393886be931a1f",
+        "sha256_in_prefix": "9d8d91d6ce67f00a74647bef8f76b1d265a3d97cf7a6b09030393886be931a1f",
+        "size_in_bytes": 1240
+      },
+      {
+        "_path": "site-packages/watermark-2.2.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "d56ba32a57c7e65a8e8549923b6d9494a1c5b5a0a3cec4b5e55b447d36a93d45",
+        "sha256_in_prefix": "d56ba32a57c7e65a8e8549923b6d9494a1c5b5a0a3cec4b5e55b447d36a93d45",
+        "size_in_bytes": 1183
+      },
+      {
+        "_path": "site-packages/watermark-2.2.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/watermark-2.2.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "sha256_in_prefix": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/watermark-2.2.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "815f40c5b71754ae30ad9da018492df1a7e80c3c94e5ae8bd4f4735bd13dafcf",
+        "sha256_in_prefix": "815f40c5b71754ae30ad9da018492df1a7e80c3c94e5ae8bd4f4735bd13dafcf",
+        "size_in_bytes": 105
+      },
+      {
+        "_path": "site-packages/watermark-2.2.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "9074d7ce8b7f2c8bfcd6149b4785068307710ff970cf14a976341d8d783073fb",
+        "sha256_in_prefix": "9074d7ce8b7f2c8bfcd6149b4785068307710ff970cf14a976341d8d783073fb",
+        "size_in_bytes": 10
+      },
+      {
+        "_path": "site-packages/watermark/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e2db05e8be0841cdfd16dfdae68c691ad4b067a6d4898547815c8d9e32152179",
+        "sha256_in_prefix": "e2db05e8be0841cdfd16dfdae68c691ad4b067a6d4898547815c8d9e32152179",
+        "size_in_bytes": 373
+      },
+      {
+        "_path": "site-packages/watermark/magic.py",
+        "path_type": "hardlink",
+        "sha256": "729c683f72e7aac879fb2a16e322715dce83e746931f6eacafc2b0bb87e28f66",
+        "sha256_in_prefix": "729c683f72e7aac879fb2a16e322715dce83e746931f6eacafc2b0bb87e28f66",
+        "size_in_bytes": 3280
+      },
+      {
+        "_path": "site-packages/watermark/version.py",
+        "path_type": "hardlink",
+        "sha256": "fbe251a6073c73f88e54dea5a1e94a1dd7ef3141fc08a60bc03668af2869197b",
+        "sha256_in_prefix": "fbe251a6073c73f88e54dea5a1e94a1dd7ef3141fc08a60bc03668af2869197b",
+        "size_in_bytes": 291
+      },
+      {
+        "_path": "site-packages/watermark/watermark.py",
+        "path_type": "hardlink",
+        "sha256": "ab67c429f9b8062a788fa1851cc54b65b3e37b7afb61a4310415d122d53802cf",
+        "sha256_in_prefix": "ab67c429f9b8062a788fa1851cc54b65b3e37b7afb61a4310415d122d53802cf",
+        "size_in_bytes": 7896
+      },
+      {
+        "_path": "lib/python3.9/site-packages/watermark/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/watermark/__pycache__/magic.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/watermark/__pycache__/version.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/watermark/__pycache__/watermark.cpython-39.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "watermark",
+  "sha256": "db8e6870dfd298ff9403661678b97405271b8a497c046a1cc9192ade83df3b60",
+  "size": 9820,
+  "subdir": "noarch",
+  "timestamp": 1613671890122,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/watermark-2.2.0-pyhd8ed1ab_0.tar.bz2",
+  "version": "2.2.0"
+}
